@@ -6,5 +6,6 @@
 
 Запуск сервера: 
 >> python src/server.py
+
 Запуск клиента: 
 >> python src/client.py
